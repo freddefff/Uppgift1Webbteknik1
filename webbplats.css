@@ -9,7 +9,7 @@ body {
 #main-nav {
     display: flex;
     justify-content: space-around;
-    background-color: rgb(59, 4, 4);
+    background-color: transparent;
     padding: 2em;
 }
 
